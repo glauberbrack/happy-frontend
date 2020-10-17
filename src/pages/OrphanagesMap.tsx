@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { FiPlus } from 'react-icons/fi'
-import { Map, TileLayer, Marker, Popup }  from 'react-leaflet';
+import { Map, TileLayer }  from 'react-leaflet';
 
 import 'leaflet/dist/leaflet.css';
 
